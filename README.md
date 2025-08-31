@@ -38,21 +38,10 @@
 <p align="center">
   <a href="https://github.com/Chandu00110/django-react-store">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandu00110&repo=django-react-store&theme=tokyonight" />
-  </a>  
-</p>
-<p align="center">
-  🛒 **Django React Store** — A full-stack eCommerce application built with **Django + React**.  
-  Integrated **REST APIs** for backend communication and added **Razorpay payment gateway** for seamless transactions.  
-</p>
-
-<p align="center">
+  </a>
   <a href="https://github.com/Chandu00110/N-Queens">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandu00110&repo=N-Queens&theme=tokyonight" />
-  </a>  
-</p>
-<p align="center">
-  ♟️ **N-Queens Solver** — Implementation of the classic **N-Queens problem** using efficient algorithms.  
-  Demonstrates problem-solving, recursion, and optimization techniques in computer science.  
+  </a>
 </p>
 
 
