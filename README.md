@@ -50,15 +50,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandu00110&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandu00110&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandu00110&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandu00110&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=FFB800&currStreakNum=FFB800&sideNums=DD2727&currStreakLabel=FFB800&sideLabels=FFB800&cache_seconds=1800" alt="streak" />
 </p>
 
 ---
 
 ### 🏆 GitHub Achievements & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandu00110&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandu00110&theme=tokyonight&no-frame=true&row=1&column=6&cache_seconds=1800" />
 </p>
 
 ---
