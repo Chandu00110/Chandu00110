@@ -37,11 +37,11 @@
 ### 📌 Featured Projects
 <p align="center">
   <a href="https://github.com/Chandu00110/django-react-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandu00110&repo=django-react-store&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandu00110&repo=django-react-store&theme=tokyonight&cache_seconds=60" />
   </a>
   
   <a href="https://github.com/Chandu00110/N-Queens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandu00110&repo=N-Queens&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandu00110&repo=N-Queens&theme=tokyonight&cache_seconds=60" />
   </a>
 </p>
 
