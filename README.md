@@ -1,9 +1,9 @@
 <!-- Profile README for GitHub -->
 
-<h1 align="center">Hi 👋, I'm Chandu</h1>
-<h3 align="center">A Passionate Software Developer from India 🚀</h3>
+<h1 align="center">Hi 👋, I'm Chandra Shekhar</h1>
+<h3 align="center">A Passionate Software Developer 🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
 
@@ -35,10 +35,10 @@
 
 ### 📌 Featured Projects
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Project1">
+  <a href="https://github.com/Chandu00110/django-react-store">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandu00110&repo=django-react-store&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/Project2">
+  <a href="https://github.com/Chandu00110/N-Queens">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandu00110&repo=N-Queens&theme=tokyonight" />
   </a>
 </p>
@@ -82,6 +82,9 @@
   <a href="mailto:chandrashekharpepakayala@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
+  <a href="https://chandu-portfolioo.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  </a>
 <!--   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a> -->
@@ -90,9 +93,11 @@
 ---
 
 ### 🎉 Fun Animation
+<!-- 
 <p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino Game" />
 </p>
+-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
@@ -100,4 +105,4 @@
 
 ---
 
-⭐️ From [Chandu](https://github.com/Chandu00110)
+⭐️ From [Chandra Shekhar](https://github.com/Chandu00110)
